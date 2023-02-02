@@ -1,3 +1,3 @@
 console.log();
 console.log(`salut!`);
-console.log('salut iar')
+console.log(`buna ziua!`);
